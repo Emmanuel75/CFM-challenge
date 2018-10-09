@@ -1,0 +1,6 @@
+name	experiment
+iterCount	241
+learnErrorLog	learn_error.tsv
+testErrorLog	test_error.tsv
+timeLeft	time_left.tsv
+loss	MAPE	min
